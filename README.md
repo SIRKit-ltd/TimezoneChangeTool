@@ -14,6 +14,12 @@ This tool helps migrate Outlook calendar items to the new Western Canadian time 
 
 Sign-in, scanning, and previewing do not change events. If script execution is blocked by organizational policy, contact IT for approved signing or deployment.
 
+## User guides
+
+- [Non-recurring meetings: step-by-step](docs/non-recurring-meetings.md)
+- [Recurring meetings: preview, migration and recovery](docs/recurring-meetings.md)
+- [Every checkbox, button and setting](docs/controls-and-settings.md)
+
 ## What to expect
 
 - The tool preserves the original clock time in the new zone: 11:00 AM stays 11:00 AM, although its UTC instant changes. Outlook displaying the old zone may show a different time.
