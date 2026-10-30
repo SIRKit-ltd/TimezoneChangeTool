@@ -1,0 +1,19 @@
+# Local security documentation
+/SECURITY-REVIEW.md
+/SECURITY.md
+
+# Sensitive local recovery data
+*.dpapi
+Journal/
+JournalBackups/
+ResolvedBackups/
+
+# Generated packages and logs
+*.zip
+*.log
+
+# Local credentials and environment settings
+.env
+.env.*
+*.pfx
+*.p12
