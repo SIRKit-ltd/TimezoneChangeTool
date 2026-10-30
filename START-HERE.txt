@@ -1,0 +1,26 @@
+TIMEZONE CHANGE TOOL | SIRKIT
+
+Automatic dependency setup: run Setup-and-Launch.cmd.
+Requires PowerShell 7.2+ already installed. Installs Graph authentication for
+the current user if missing, then opens the tool. Uses execution-policy bypass
+for that session only; organization-enforced policies still apply.
+
+Extract the entire package, close any older copy, and run
+Setup-and-Launch.cmd.
+
+Requires Windows, PowerShell 7.2 or later, current regional time-zone updates,
+and Microsoft.Graph.Authentication installed through your approved process.
+
+Read README.md for setup, permissions, recurring-series behavior and recovery.
+Sign-in, scanning and previewing do not change events. Applying changes requires
+confirmation. Recurring migration can send invitations and cancellation updates.
+
+Active journals: %LOCALAPPDATA%\AlbertaCalendarPilot\Journal
+Keep journals after a failure and inspect Outlook before retrying.
+Clearing journals does not undo calendar changes.
+
+LICENSE: MIT for code and documentation.
+NOTICE: branding rights and exclusions.
+SECURITY.md: sensitive-data handling and vulnerability reporting.
+SECURITY-REVIEW.md: release-file inspection findings and limitations.
+VERSION.txt: application version (unchanged by this documentation release).

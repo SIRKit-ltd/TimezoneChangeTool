@@ -1,0 +1,15 @@
+Timezone Change Tool
+Copyright (c) 2026 SIRKit
+
+The MIT License applies to this project's code and documentation.
+The SIRKit name and logo assets (assets/sirkit-logo.svg and
+assets/sirkit-logo.xaml) are excluded from that license. All rights in those
+brand assets are reserved by their respective owner. No trademark license
+or permission to imply endorsement is granted. Obtain permission before
+reusing the branding in another product.
+
+Logo provenance and conversion details are recorded in assets/SOURCES.txt.
+Microsoft, Outlook, Exchange, and Teams names belong to their respective
+owners. Their use here identifies compatible services and does not imply
+endorsement. Microsoft.Graph.Authentication is installed separately and
+remains subject to its own license.

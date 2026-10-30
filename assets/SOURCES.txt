@@ -1,0 +1,15 @@
+Sirkit logo and colour references, retrieved 29 October 2026.
+
+Original logo:
+https://www.sirkit.ca/hubfs/Sirkit_Primary-Logo-RGB.svg
+SHA256: EA6EE7963660E972F7E7628661D71414E893B4DB1BA7BCF4BABB040D7009FBDE
+
+Website palette:
+https://www.sirkit.ca/hubfs/hub_generated/template_assets/1/187557187099/1777061971516/template_base-overrides.min.css
+Primary: #002849
+Secondary: #0252C6
+Light: #EDF0F2
+
+sirkit-logo.xaml reproduces the SVG paths, polygons, rounded rectangles,
+fills and viewBox as a native WPF DrawingImage. The original SVG is retained.
+Both files are local assets. The tool makes no website calls for branding.
